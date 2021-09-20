@@ -1,0 +1,21 @@
+body {
+
+background-color: lightgray;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #0000;
+    padding: 25px;
+
+}
