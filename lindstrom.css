@@ -1,0 +1,65 @@
+
+/*cathrines css*/
+
+/*bild*/
+.c_bild {
+    border-radius: 15px;
+    height: 350px;
+    width: 250px;
+    margin: 30px;
+}
+
+
+/*Om föreläsning text*/
+.c_ämne {
+    width: 600px;
+}
+
+/*Föreläsningslista*/
+.c_lista {
+    background-color:darkseagreen;
+    width: 400px;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+/*presentation Cathrine*/
+.c_ommig {
+    width: 600px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+/*Tabell oljeprofiler*/
+table.c_tabell {
+    width: 600px;
+}
+
+th.c_huvud {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    border-bottom: 2px solid #111111;
+    border-top: 1px solid darkgray;
+    text-align: left;
+    background-color: darkseagreen;
+    padding: 7px 10px 10px;
+}
+
+td.c_olja {
+    background-color: darkgrey;
+}
+
+td.c_längd {
+    background-color: darkgrey;
+}
+
+td.c_mängd {
+    background-color: darkgray;
+}
+
+/*knapp*/
+.c_knapp {
+    background-color: darkseagreen;
+    margin: 10px;
+}
