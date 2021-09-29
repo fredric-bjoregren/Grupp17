@@ -1,0 +1,77 @@
+body{           /*generella regler för hemsidan*/
+
+    background-image: url("bakgrund_5_grupp17.jpg");
+    background-repeat: no-repeat;
+    background-size: 210%;
+    text-align: center;
+
+}
+
+.logo {         /* justera logo bilden */
+    border-radius: 4px; 
+    width: ;
+    display: block;     
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.f_del_1 {      /* styla section boxarna */
+
+    background-image: url("bakgrund_2_grupp17.jpg");
+    width: 600px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+
+nav ul {        /* För att få namnen horsiontellt */
+    list-style: none;
+    display: flex; 
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+nav li a {      /*placera och justera utseende på länkarna*/
+    text-decoration: none;
+    padding: 35px;
+    color: rgb(172, 30, 30); 
+    font-size: 17px;
+    font-weight: bold;
+    display: block;
+
+}
+
+ul {            /* ta bort prickarna i listan*/
+list-style: none;
+}
+
+ol {            /* ta bort numren i listan*/
+    list-style: none;
+}
+
+table.f_discografi { /*tabell discografi*/
+    width: 600px;
+}
+th.f_huvud {
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    border-bottom: 3px solid #111111;
+    text-align: left;
+    background-color: rgb(223, 222, 189);
+    padding: 20px 20px 20px;
+}
+
+
+.f_header {     /*header border*/
+    background-color: rgb(223, 222, 189);
+    border-radius: 20px;
+    margin: 5px;
+}
+
+.f_footer {     /*footer border*/
+    background-color: rgb(223, 222, 189);
+    border-radius: 20px;
+}
+
